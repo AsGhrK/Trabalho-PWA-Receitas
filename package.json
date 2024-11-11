@@ -1,0 +1,16 @@
+{
+  "name": "Sabores em Movimento",
+  "version": "1.0.0",
+  "description": "Aplicação de receitas práticas e deliciosas",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "Davi Casari",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}

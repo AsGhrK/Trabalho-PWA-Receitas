@@ -1,0 +1,23 @@
+{
+    "name": "Sabores em Movimento",
+    "short_name": "Sabores",
+    "description": "Aplicação de receitas práticas e deliciosas",
+    "icons": [
+        {
+            "src": "images/imagem1.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "images/imagem2.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "lang": "pt-BR",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white"
+
+}
